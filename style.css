@@ -2,15 +2,16 @@ header {
   justify-content: space-around;
 }
 
-
 .maple-pic {
   max-height: 48vh;
 }
 
 .bot-pic {
-  justify-content: space-evenly;
-  padding: 10vh;
+  justify-content: space-around;
+
 }
+
+
 
 .crown-maple {
   background-color: #af3607;
@@ -24,7 +25,7 @@ header {
 
 .hero-text {
   justify-content: space-around;
-  padding: 6vh 18vh 6vh 18vh;
+  padding: 6vh 54vh 6vh 58vh;
 }
 
 .pic-size {
@@ -40,6 +41,8 @@ header {
   padding: 0vh 0vh;
   font-size: 75%;
   font-weight: bold;
+  justify-content: space-around;
+
 }
 
 .footer-space {
