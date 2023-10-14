@@ -2,6 +2,8 @@ header {
   justify-content: space-around;
 }
 
+
+/* SECTION class selectors */
 .maple-pic {
   max-height: 48vh;
 }
